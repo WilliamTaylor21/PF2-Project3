@@ -1,0 +1,801 @@
+Defective fasteners
+William Taylor & James Crow
+8/25/1 7
+Kelly Parker
+EDD 
+
+
+Team Norms: 
+-Organized
+-Efficient
+-Fun
+-Productive
+-Adaptive
+-unequal work
+
+Conflict:
+-Talk it out
+-Gather outside opinion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+James Crow
+Finally, A Strip-Proof Screw
+http://www.popsci.com/article/diy/finally-strip-proof-screw#page-2
+I find this Summary beneficial to our research because it shows a solution for stripped screws and what it has fixed. This also shows what problems are such as the drill bit slipping which is the main cause for screws sripping. This is also beneficial because We know that this is a solution and we want to make an easier solution and something easier to find. This means that it will be universal and no special material is needed. What was used was a multilayer drill bit head that had different levels of sizes to prevent from stripping inside the screw which had the levels as well.  
+
+
+Remove a Stripped Screw with a Rubber Band
+http://lifehacker.com/5462520/remove-a-stripped-screw-with-a-rubber-band
+Place a wide band rubber band [in between] the screw driver (they recommend bumping one size up from the screw head which caused the strip) and the screw, then apply hard, but slow force as you turn.They also suggest more obvious solutions like changing the size of your screwdriver, using pliers when possible, or just pounding the screwdriver into the screw head with a hammer, hoping you can create your own traction.
+ This site is also beneficial because this is the branch of where we have gotten our idea for a rubber coated screw head. The rubber band acts as a filler, but also a grip. That is the important part. The rubber grips allowing the drill bit or screw to pull out the stripped screw. We want to eliminate this problem in general by just using rubber on screw heads so that drill bits can just grip on the inside and you never have to worry about the bit slipping or spinning inside.
+
+
+Remove a Stripped or Broken Screw
+https://www.youtube.com/watch?v=lI2hl3Zfi6Q , https://www.lowes.com/projects/woodworking-and-crafts/remove-a-stripped-or-broken-screw/project
+If the screw head stands above the wood surface, clamp a pair of locking pliers to the screw as close as possible to the wood surface and gently turn it counterclockwise. For #12 or larger screws where the stripped screw head rests flush with the wood (and you don't want to risk damage to your project), turn to a screw extractor for help. Locking grip pliers sometimes lose their grip, so protect the wood surface underneath by cutting half the width of a small piece of cardboard and sliding the notched halves around the screw. If you can leave the broken screw in place, as when securing a deck board, simply drill a pilot hole and drive a second screw about 1/4" from the first one. 
+*In this video and article, One solution for removing striped screws was using vise grips to unscrew the stripped screw. This goes in hand with an Idea William had about a mechanism that grips over screws. This means that there will be no stripping of insides of a screw and the thing on the outside will tighten over any sized screw to prevent slipping creating as much friction as possible. In theory it will never strip anything because it tightens over and size. This also means that there will be no need for having screw heads with a pattern in it and it can just be a bloc  of metal. Still sames shape but the mechanism grips on outside.
+How can we use this in our project? Is the method better than others?
+How to remove a broken or stripped screw: ultimate pro tip collection!
+http://mojones.net/how-to-remove-a-broken-or-stripped-screw-ultimate-protip-collection.html
+To loosen the screw by tapping, place the tip of a screwdriver in the screw head (as if you were going to turn it) then tap the butt of the screwdriver with a hammer. If there is enough of the screw protruding above the surface it’s screwed into, you can use a Dremel or other rotary tool with a cut-off bit to cut a slot directly into the shaft, which you can then unscrew with a flat-head screwdriver. By drilling a hole just a couple of millimetres deep in the middle of the screw head, you can allow the tip of your screwdriver to go deeper in the head and get a little bit more grip. Sometimes a flat-head screwdriver can get a better grip on a stripped cross-head screw than the correct screwdriver can get, due to the way that cross-head screws are designed to “cam-out”. 
+This article was helpful because it gave me more information on the clamping idea(above). It clamps on tightly and you just twist. This was also helpful because I saw a problem with doing this by hand and that is having to use two hands. What this means to me is that there is another problem to solve. Our idea was creating a drill bit that serves the same purpose.
+How does this affect the future of our project
+
+How to Remove a Stripped Screw
+http://www.wikihow.com/Remove-a-Stripped-Screw
+Start with a center punch to make a hole in the exact center of the screw, and take care to drill directly through the center.[12] Once the screw head breaks off, grip the screw shaft with locking pliers and rotate counterclockwise to remove. Start with a hole ⅛ to ¼ inch (3–6 mm) deep; going too far may break the screw.[8] It helps to start the hole with a small drill bit to give the larger one a place to grip. If you can still grip the screw head with a screwdriver, try one last time to remove it by hand. A tap handle that fits snugly over the head of your extractor is by far the safest way to remove the extractor and attached screw. 
+*This website came in handy because it talks about a technique of heating the screw to loosen threads. The idea that popped in my head was a self heating drill bit for unscrewing screws. This can be connected with the clamp drill bit idea but most likely not for the rubber coated screw heads because it might cause the rubber to melt. It could be a feature that only works in reverse mode so screws are not screwed in loose.
+
+THE STRONGEST METALS
+https://www.metalsupermarkets.com/the-strongest-metals/
+Raw iron is ductile and weak, but the addition of other elements such as manganese, niobium, or vanadium gives steel strength and hardness. That said, four metals stand out as being the strongest: Steel, Titanium, Tungsten and Inconel. Over 75 locations in North America offering instant access to a wide variety of metal types, shapes, sizes and grades. At Metal Supermarkets,  supply a wide range of metals for a variety of applications. 
+*This article was important because It allowed me to see what some strong metals are and what their ratings are. This is important to this project because another solution on preventing a screw from stripping. A solution would be to have a screw that just cant strip because the material is too strong. What we will need to figure out is if the metal can be mass produced into screws and if it can handle the work environment it would be used in.
+
+THE STRONGEST METALS
+http://www.popularmechanics.com/home/tools/reviews/a10417/these-are-the-screws-you-should-be-using-16729784/
+These next-generation fasteners are so well-engineered (interestingly, both Spax and GRK screws were developed in Germany) and so effective that you'll wonder how you ever managed without them. these Are the Screws You Should Be Using Stop making things hard on yourself by building with drywall screws or other cheap fasteners. 
+*In this website, i was able to see what screws worked the best in terms of drilling into the wood. Part of the problem with screws stripping is how well it penetrates and fastens into the wood. The easier the screw goes into the wood, the less likely it is to strip because there is no pressure or resistance. Two screws were shown. The SPAX screw, and the GRK screw.
+
+Are Impact Rated Bits Worth the Money?
+https://www.protoolreviews.com/tools/hardware-fasteners/review-bit-battle-are-impact-rated-bits-worth-the-money/6447/
+These bits look nice, but even being rated for impact use, they did not impress. All of the tested bits have standard 1/4” hex shanks designed to fit into the quick release chucks of cordless impact drivers. Also worth noting are the newer DeWalt; impact bits. In either case, testing impact bits in drywall just didn't seem practical or helpful. 
+*In this article, the question was asked about what the best drill bits are to use and an interesting discovery was made that the bosch ribbed tip drill bit was the most effective and it did not break or strip the screw. This was surprising because I have not heard about this drill bit in all of the research. It is made of s2 tool steel so nothing surprising on that. The article said the ridges made a huge difference and in the testing it installed the most screws. So if we could add this small innovation to our final product then that would be effective.
+
+New magnesium alloy: World's strongest and lightest metal
+http://ireport.cnn.com/docs/DOC-1205060
+
+The electronic industry as well as the medical field has been active in the use of this magnesium alloy. Not only is magnesium cheaper than lithium, it also has the potential to have twice the energy density of the lithium-ion batteries that are currently being used in electric cars as well as many electronic devices. Magnesium is cheaper than lithium, it also has the potential to have twice the energy density of the lithium-ion batteries that are currently being used in electric cars as well as many electronic devices. Magnesium alloys, and associated corrosion protection systems are used extensively in helicopter and fixed wing military aircraft as well.
+A few question that comes to mind about this article is how have these findings improved over the last three years since this article has been written? What are any new innovations or ways that this magnesium alloy is used?, and what is the future of this finding from here?
+.* In this article, I learned that the strongest metal is magnesium. The reason I was wondering this is because if we can use the strongest material to make screws then there is the chance that they will never strip. It is also the lightest metal. Turns out there already are screws made of this stuff in the medical field and mass production, but not for construction and the everyday screws.
+
+Screw Making Machine
+http://www.madehow.com/Volume-3/Screw.html
+The time consuming process of hand filing the threads into the screw form made mass production and use virtually impossible. Screws are part of a family of threaded fasteners that includes bolts and studs as well as specialized screws like carpenters wood screws and the automotive cap screw. Both are made of metal, however the machine screw has a constant diameter and joins with nuts while the wood screw is tapered and grips to the actual wood surface. The pitch of a screw is the distance between two threads (or grooves) from the same point on each thread.
+ *In this article, I learned about Jacques Besson who created the first screw making machine in 1586, although the making of screws had already dated back to 200bc. I was able to see how screws were made and see how the common screw thread came about. This was important to our research because we are looking to be completely educated on this topic so knowing how screws used to be manufactured is important. This also allowed me to see how far back screws have gone so that we could see the work patterns over time.
+
+Magnesium casting technology for structural applications
+http://www.sciencedirect.com/science/article/pii/S2213956713000030 
+Magnesium casting technology was well developed during and after World War II, both in gravity sand and permanent mold casting as well as high-pressure die casting, for aerospace, defense and automotive applications. Recently, the continued expansion of magnesium casting applications into automotive, defense, aerospace, electronics and power tools has led to the diversification of casting processes into vacuum die casting, low-pressure die casting, squeeze casting, lost foam casting, ablation casting as well as semi-solid casting.
+
+During this article, I had to do some additional research to find out what those different castings are and this is what I found.
+“Die casting is the process of forcing molten metal under high pressure into mold cavities (which are machined into dies). Most die castings are made from nonferrous metals, specifically zinc, copper, and aluminum based alloys, but ferrous metal die castings are possible. It is non-expendable mold casting”
+
+This information is beneficial to our project because now we know that this magnesium alloy can be casted into screws and used for “structural applications”. With that said, we have a possible metal that can be used.
+
+
+
+
+Coarse threads vs fine threads
+http://www.katonet.com/article/coarsevsfine.html
+Fine threads experience more gaging and assembly problems due to plating buildup than coarse threads, as there is less material between each thread flank. Fine threads require less tightening torque to develop equivalent preloads to the corresponding coarse thread bolt sizes. When using Coil Thread Locking Inserts, or other stainless steel threaded fasteners, coarse threads are much less likely to experience galling than fine threads.
+
+This article educated me on coarse threads and fine threads. They both have their benefits whereas coarse threads are more durable and have a greater resistance to cross threading and fine threads lock and grip better in the material they are fastened into. I believe that if we can make a cross between these two types of threads, then two problems can be eliminated at onces. 
+
+
+
+
+
+William Taylor:
+1-Why does my drill bit destroy the screw head?
+https://diy.stackexchange.com/questions/61686/why-does-my-drill-bit-destroy-the-screw-head/61688
+
+In this Article/forum “Abhi” asked the question “Why does my drill bit destroy (strip) the screw head?”
+He explained how his drill was on the lowest setting and that it was battery powered. There were many answers, the most impactful being from “Hot Licks”. He explained how drill bits can last a long time or wear out after a couple days. When the bit gets worn out it can easily destroy a screw. He also stated how Phillips bits can’t have any wiggle space or they will also strip the screw. Finally, he said that not applying enough pressure will cause the drill do bounce out and hurt the screw, and pulling the trigger too fast can strip the screw as well. In the same article “Longneck” said that the High/low switch on top of the drill sets the torque (allowed resistance), which isn’t always the best option.
+
+What I learned from this forum is that having the right screw is irrelevant without having the right drill bit.
+
+
+
+2-Remove a stripped screw with a rubber band:
+http://lifehacker.com/5462520/remove-a-stripped-screw-with-a-rubber-band
+
+In this lifehack post Adam Pash explains how to remove a stripped screw with a rubber band. A rubber band should provide enough grip between a screw and a bit to pull it out without stripping the screw even more. This is a affordable alternative to screwdrivers, screw extractors, screw and hammer, and pliers.
+
+What I learned from this post is that there are a lot  more solutions for removing a stripped screw rather than preventing in the first place. Such as rubber bands to increase friction and screw extractors.  As far as our project goes these solutions have no real effect other than being competition. 
+
+3-Cheap bolts and screws can’t hold the country together
+http://people.com/archive/an-expert-warns-that-cheap-bolts-and-screws-cant-hold-the-country-together-vol-30-no-20/
+
+Last december a $1 bolt sheared and 51 year old Calvin Davis fell to his death. Japanese company in order to compete made to many bolts too fast. Over 30% of all fasteners they made were defective. 30 million military fasteners will have to be discarded because of faulty fasteners, as well as 1200 tanks were taken out of combat also because of faulty fasteners.
+
+Another aspect for our project could be designing out fasteners to anticipate manufacturers laziness and defects to limit deaths related to screws and decrease waste. By making better fasteners we could also save millions of dollars so that we don’t have to remake large orders due to faulty fasteners. 
+
+
+
+4-Preventing stripped screws with impact driver
+https://www.ebmag.com/Products/Tools-and-Equipment/prevent-stripped-screws-with-new-dewalt-impact-ready-flextorq-bits
+
+This article explains how Impact drivers can prevent screws from stripping. Dewalt’s new impact drill allows the drill bits to rotate up to 15 degrees. The magnetic screw lock system reduces the wobbling of the screw and makes the screws drop less often. 
+
+Impact drivers are drills made to over power and over torque the surface they are screwing into. Normally the weak link is the screw, when the drill exerts more torque than the screw can handle the screw will strip. This specific driver can rotate 15 degrees to take stress off screws. Impact drivers also can have their torque set so that the driver stops at a certain amount of resistance so that it doesn’t strip the screw.
+
+
+5-Pozi- head drive
+https://bsfixings.uk/the-difference-between-phillips-and-pozi-screw
+
+Article by: bsfixings
+
+The Pozi-drive was made to improve torque and replace the phillips head. The Pozi head screw driver is 45 degrees sharper as well as improved contact between the screw and the driver, allowing it to work on stripped screws. The problem is that it looks similar to a phillips head but strips way faster when used with a phillips head screwdriver/ drill. 
+
+I learned that Pozi screws were made to further improve to torque on the screw. Including the number of crossed and head degrees. By increasing the amount of contact with the screw it gives the screw less opportunity to slip and strip
+
+6- Mechanical Fasteners 
+http://www.constructionwitness.com/Published-Articles/Cabinetry-Architectural-Millwork-Finishes/Mechanical-Fasteners.aspx
+
+When used properly mechanical fasteners are almost always are safe and secure. Failures have happened from improper installation. Loose and falling components have occurred in hotels, hospitals, airports, and housing projects. Products coming detached  come from the following causes. Missing fasteners, missing fastener parts, wrong fasteners for the need, improper sizes, improper preparation, missing wall connections, poorly designed systems, overtightened and stripped fasteners, damaged and fatigued fasteners, poorly manufactured components, substituted fasteners. Improper use of fasteners comes from attempting to lower installation cost, engineers specified wrong products, architects omit fastening instruction, time restricts the quality of work.
+
+This article by Michael Panish is about the improper use and injuries surrounding mechanical fasteners. The article is pretty lengthy and talks about the top causes of products falling off walls. Overall I think the article isn’t bias at all because it mostly focuses on facts and stays away from opinion. As far as our project goes he states many reasons for messing up screws. For example being in a rush and using the wrong fastener.
+
+7-Screws v/s Nails
+http://www.popularmechanics.com/home/tools/how-to/a18606/nails-vs-screws-which-one-is-stronger/
+
+
+Nails and Screws are the two most popular wood fasteners, but which one do you use? Screws will rip out of wood broken after just a couple of twists. Nails however take a lot more effort and still come out of wood intact. However screws can be a lot stronger than nails in stationary situations. Nails are better for joints and rotating objects. Screws are better for long term, stationary objects.
+
+This article is kind of bias. They only use one video to support their claims. Even though most of what they said was true there isn’t a surplus of evidence to back it up. The article also isn’t very long taking away some of its impact. The Author “Timothy Dahl” Claims to be a DIY professional. After looking at other articles he has written he looks to be more of a editor professional.
+
+8-Fastener material selection
+https://www.thomasnet.com/articles/hardware/fastener-materials/
+
+ There are many different Types of materials to make fasteners out of. This article focuses on all of the standard types of fasteners and their strengths  and weaknesses. A majority of Industrial fasteners are made from Aluminum, Brass, and Steel. Steel is the most commonly used material in fastener production. It has a high degree of formability with strength and durability. Carbon is the most common steel. It comes as grade 2, 5, and 8, 8 being the strongest.  Bronze and Brass fasteners are generally used in faster production. With it’s high corrosion resistance it is the best option for ship building and other aquatic jobs. Nylon Fasteners are lightweight and used heat resistant, it is also easily dyed for aesthetic needs. However they do deteriorate way faster. 
+
+The author Gets his point across on all of the types of fasteners fast and provides lots of examples. His writing is not bias in any way. The article is semi-outdated because of new metal mixtures used in fasteners, but it is still mostly relevant. His purpose is to let his reader know the different types of fasteners and their uses. 
+
+
+9-Drill bit that removes stripped screws
+https://www.kickstarter.com/projects/762395654/new-phillips-screwdriver-that-turns-new-and-damage?ref=discovery
+
+This article on Kickstarter.com was made by a company named “Knife Edge” to spread awareness for their new drill bit. Back in the 1930’s Henry “Phillips” created the phillips bit for Cadillac factory production. The screws they drilled were made out of much stronger steel than is normally used today. They were also made to deliberately made to push themselves out to not damage the screw. However due to new screws and materials they do just the opposite. Knife edge made a new bit that is designed to grip the screw and not push it away. They also claim that you won’t have to find anymore replacement screws.
+
+This article was made to advertise their new drill bit. The author is very bias because he is getting paid to promote the bit. However they do provide video evidence and patents backing up their claims. But to the untrained eye these patents could be completely made up and it would still look impressive. The article was made November 2, 2016. So given that not everybody has one or has even heard of it tells me that it didn’t make it due to awareness or performance.
+
+10-Using the right screws
+http://store.curiousinventor.com/guides/Metal_Working/Screws
+
+There are lots of different screws. Many of which look the same to the untrained eye. Trying to screw the wrong type of screw into the wrong surface will cause a screw to strip/bend rapidly, destroying the screw and the surface. Different screws also have different length and with threads allowing them to grip on different surfaces better. 
+
+Using the screw is very important. Perhaps more important that using the right torque or drill bit. However to maximize performance it is best to have all three of the right parts. So another thing we could do to eliminate or reduce this problem is to be more educated or the correct way to use screws and the correct ones to use.
+
+
+11-How to drive screws like a pro
+http://www.popularmechanics.com/home/how-to/a9517/how-to-drive-screws-like-a-pro-15985749/
+
+Every drill has a slip clutch, this represents the maximum amount of torque a drill can put out. Using a drill correctly tells the drill to stop turning when it faces a certain amount of resistance. Bigger, metal screws require more torque. While wood screws and thinner screws require less torque.
+
+What I learned about this article is that using too much torque on a wrong screw will cause the screw to strip. People that don’t use drills all of the time rather than trying to find the right screw may just increase the torque and strip the screw. However most screws don’t have a recommended amount of torque on the screw and sometimes not on the box.
+
+12-Concrete Screws
+https://www.confast.com/articles/install-concrete-screws.aspx
+
+A concrete screw is one designed and manufactured so the threads of the screw will tap threads into concrete, brick or block. The threads are hardened without making the body of the screw so brittle that the screw would shear off. The first concrete screw was made in the late 1970s and in the early 1980s began to be sold. It revolutionized the installation of these screws into concrete. Prior to the concrete screws, installation was done using powder actuated and plastic type female anchors.
+
+I learned that even screws for concrete exist. They have hardened threads, but didn’t take away from the body, so it wouldn’t rip off. Without them we would be using powder and plastic anchors to install non-permanent concrete. This article is pretty unbiased as it mostly talks about facts.
+
+
+
+PROBLEM STATEMENT:
+
+Who- Precision machined products association
+
+What- Screws and drill bits have the tendency to strip in inconvenient circumstances.
+
+When- 200bc-present
+
+Where- Tasks that require the use of a drill, drill bits, and screws. Primarily construction and architecture. Also appealing to the average person with at home jobs.
+
+How- People are spending more money and time on projects that require the use of screws.
+
+From 200 BC to present, screws and drill bits have stripped on jobs causing inefficiency in work, more time, and money spent than necessary on millions of projects. Our engineering team will be designing and creating a solution for stripped screws and drill bits to decrease waste. Helping to maximize efficiency in the massive 30 billion dollar industry from small home projects to massive city contracts.
+
+
+
+DESIGN STATEMENT: 
+Design a screw or drill bit that completely prevents screws from stripping. While keeping the project practical, cost efficient, fun, and creative. Our project will save customers from having to go through packs of rubber bands and screw extractors, While at the same time save them from going through stacks of cash.
+
+
+
+5 ASSOCIATIONS
+Industrial fasteners institute- http://www.indfast.org/
+Fastener standards organizations- http://www.mudgefasteners.com/standards-organizations/
+Screws industries inc.-http://www.screwsindustries.com/
+NFDA http://www.nfda-fastener.org/
+Precision machine products association. http://www.pmpmach.com/website/ 
+
+Survey: https://docs.google.com/forms/d/e/1FAIpQLSe5CAFwiWqJExRd2B8L8qoHuVuwTU3QBeWRGUrla73MlleZ-A/viewform?usp=sf_link
+
+INTERVIEW QUESTIONS
+
+What degree did you get in college or did you even go?
+
+What inspired you to get into your job?
+
+How long have you been in your field of study?
+
+Have you ever experienced a stripped screw?
+
+Would you say that stripped screws is a problem?
+
+Have you ever tried to fix a stripped screw?
+
+Have you tried any temporary or permanent solutions? 
+(such as rubber bands, outlaw fasteners, knife edge screws, impact drill, extractors, heating the screw, other)
+
+Do you know of any solutions that have already eliminated this problem?
+
+What is your least favorite part of your field of study?
+
+Do you have any advice for our project and for me personally?
+
+
+
+
+
+
+
+
+
+https://goo.gl/forms/akeUKhMIhK2KSmjJ2
+
+
+
+
+Patents
+
+
+
+
+
+JAMES CROW
+
+1)
+https://patents.google.com/patent/US20130023941A1/en?q=screws&q=dont&q=break&q=strip&page=1
+
+
+
+
+
+To find this patent, I searched “screws don't break strip:” and other various searches. This patent popped up on a few other searches. I did my research on google patent search and found that the polyaxial bone screw assembly includes a threaded shank body having an integral upper portion receivable in an integral receiver. The receiver having an upper channel for taking in a lengthwise connecting member and a lower cavity working with a lower opening.
+
+This patent was designed by Roger P. Jackson,and James L. Surber on 2009-06-15, and has been pending since 2016 from its active date.
+
+Some pros of this patent are first, the significance of the shank. The shank was designed to be frictionally engaged with, but still movable in a non-floppy manner. The shank can also be locked into a desirable place. One con about this patent that would not be beneficial for our project is that it has a pivot point for joints. In our project. We need a firm stationary screw that can hold structures firm. Another pro about this patent is the expansion-only retainer ring base portion in the invention is positioned entirely below the shank head hemisphere in the receiver and can be a stronger, more substantial structure to resist larger pull out forces on the assembly. 
+
+
+2)https://patents.google.com/patent/US4671141A/en?q=rotory&q=torque&q=device&scholar 
+
+
+The name of this patent is rotary torque device-searched on google patents- and its purpose is the same as an impact driver which is to power-drive screws through the thickest, densest woods without stripping. It is designed with rotary torque spines that grip onto the nut and has equal spacing between gripping spots that give the most torque and keep it all evenly spread.
+
+This invention was designed by Alan R. Hanson during 1985 but still serves the purpose of locking on to bolts today. 
+
+The pros of this patent are first, how it has the gripping spines on the interior of the device that grip onto the bolt. Another is how it produces enough given torque that  it can remove or apply any bolt to its given location. One negative that I have found from this patent is that too much torque on a given object can be destructive, so depending on what material this device is being applied to is a key factor in its success.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3) http://www.google.tm/patents/US20100129176 
+
+To find this patent, I searched “nonstrip screw patents 2017” on a regular google tab and I found this “Screw head recess drive and corresponding driver tool and recess punch” has been designed for drive systems of all types of miniature screws typically for custom low profile head height product sizes range from about 0.4 mm through about 2.0 mm are conventionally used for special purpose applications. It is made to be capable of engaging with the screw head recess drive of a screw/fastener. 
+
+This patent was designed by Balasingam Karupaya, and published on May 27th. 2010.
+
+One negative that I found in this patent is the specific requirements needed for the purpose of this patent. Despite that, It comes with lots of positives such as how it can withstand and be used against higher torque, how it smoothly fits the assigned screws given, and how it has the punch holder to keep everything aligned. 
+I find this patent beneficial to our group because I like the idea of how it has the recess wall that forms each layer smoothly on the product which means it can be used easier and efficiently. 
+
+
+
+
+
+
+
+
+
+
+4) https://www.google.com/patents/US8382414 
+
+
+To find this patent, I searched “non strip screws/fasteners” in a regular google tab and scrolled down to find this. there have been developments in construction techniques and fastener technology that attach boards to a subfloor or underlying joist with screws. There has also been attempts to conceal the screw heads. This has been accomplished by this patent by advancing the screws at an angle through the sides of the boards, rather than the exposed upper surface or tops of the boards. The job of this fastener is to penetrate a surface of a workpiece, such as a board or other building material, and optionally fastens the workpiece or material to another work piece, article or underlying support structure.
+
+This patent was designed by Roger A. Vandenberg and was published on February 26th 2013. 
+
+The biggest problem with this patent and for our entire project is that  because the screw heads of side angled screws are equipped with such a small screw drive, It can only handle a low amount of torque or it will strip. What I liked most about this patent is how well the threading of this screw attaches the layers of wood and how the screw head lays even with the ground when into the given drive spot.
+
+
+
+
+
+
+
+
+
+5) https://www.google.com/patents/EP2433023A1?cl=en 
+
+To find this patent I was searching for “torx screws” but in the results, found this “low energy screw for wood”. This patent was designed to be inserted quickly and to use less energy that a conventional screw. This includes a countersunk head having a recess suitable for a driving tool. It also includes a tapered neck, and  a plurality of crown ribs extending over the head and neck. 
+
+This patent was designed by Barry J. Hughes and was published March 28th 2012.
+
+The main problem this patent solves is how battery powered driving tools need to re-charge the batteries frequently, especially when the battery has a high usage and the charging memory diminishes. This limits the number of screws that can be driven from a single battery charge. 
+So, this patent has been designed to take lees power of the device inserting the screw and there is now a more efficient use of power and more screws can be driven in on one charge.
+
+
+6) https://www.google.com.gh/patents/WO2015130533A1?cl=en 
+*I tried to find the image to this patent but was unsuccessful
+
+Designed by Travis D. McClure, and published on september 2015, 
+
+This patent is tittled, “One piece screws for, and methods for making and using, blind side fasteners and systems with free spin feature” which consists of  a captive threaded screw for rotationally engaging with the collet body to transform rotational movement into translational movement through a sustaining arresting of the collet body rotation by way of an anti-rotation. This screw is made up of a free-spin feature that functionally disengages a drive tool from the collet body.
+
+The main highlight of this patent is how once screwed in, the collet body disengages from whatever device is screwing it in so that it does not suffer damage from too much torque. Specifically, If the free spin zone is not bounded on both sides by the threaded portion, then the threaded portion has one end presenting to the proximal end of the screw and another end presenting to the distal end of the screw. If the free spin zone is bounded on both sides by the threaded portion, then the threaded portion is said to have a proximal threaded segment extending from the free spin zone to the proximal end of the screw and a distal threaded segment extending from the free spin zone to the distal end of the screw. Each described segment also has proximal and distal presenting ends.
+
+7)https://www.google.com/patents/US8574273 
+
+
+
+I found this patent by searching Screw patents and I came across another bone screw from the medical field. It has a threaded screw body and a screw head attached to one end of the body. This patent also includes and interior channel extending lengthwise through the screw head and through a portion of the body. It also includes special threading to prevent the screw from coming out due to movement of the bone on the client. 
+
+This patent was designed by Thomas A. Russell, Todd A. Glover, Samuel A. Houston, and  John R. Pepper, then published on november 5th, 2013.
+
+The only negative stated for this patent is the potential of the screw to back out after implantation. This problem is being eliminated with modified thread designs and locking features on bone screws to keep it in one place. In this patent, each delivery channel is substantially cylindrical or tapered along at least a portion of its radial axis which helps for better gripping into the bone.
+
+
+
+
+8) https://encrypted.google.com/patents/US20070134072 
+
+
+To find this patent, I searched “self drilling screw patents” and found that this patent is a self-drilling screw that includes a head and a shank having a drilling point defined at the distal end; said drilling point further includes a first drilling section combining the threaded portion and a second drilling section combining the first drilling section. 
+
+This patent was designed by Gui-Cai Su and  was published on June 2007.
+
+The pros of this patent are how it has a cone shaped distal end that is tapered to the shanl point. This allows for smooth drilling and for it to be level with the surface of whatever it was being drilled into.
+One negative that I found is that on piece 228, the cuts may not go into a stronger material without extra torque because the threading is high. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+William Taylor
+
+Screw having non-strip drive recess and driver bit for use with the screw
+https://patents.google.com/patent/US7077038B2/en?q=nonstrip&q=fasteners
+
+Summary: This patent is a screw designed by Toshimasa Toyooka and Shinichi Hamano on March 3rd, 2005. This screw was designed to have a drive recess that is not easily stripped off when a driver bit is engaged. Screws strip when the driving force becomes too much for the driver recess to bear. To fix this they decided to make the drive recess deeper to increase the amount of force it can take. However when this happens the neck of the screw becomes thinner and as the integrity is made weaker the screw head may come off all together. The creators also state that a new drill bit will be required to apply suitable force to the screw. 
+
+
+Critique: This patent has many up sides, such as not stripping. The possibility of the head falling off under too much pressure is worse than the screw just stripping in the first place. As well as requiring an entire new drill bit would cost too much. For our solution we want to keep it cheap, such as a new bit that works on already existing screws or a new screw that work on already existing bits. Also since this patent got approved in 2005 and I haven’t seen these screws anywhere tells me that there were other problems that weren't mentioned or the mentioned problems were bigger than expected. 
+
+2. Strip resistant screw head and screwdriver tip in combination
+
+https://patents.google.com/patent/US7311026B2/en?q=nonstrip&q=fasteners&q=screw
+
+
+
+
+
+
+
+
+
+
+
+Summary: This patent is a combination of a screw head and bit with the purpose of preventing stripping. It works by having two walls that the bit goes inside of. The walls narrow as they the further away from the base of the screw. The resistance pushes the bit down towards the base of the screw. Where normal drill bits would force themselves out (causing them to strip). This design also applies less downward pressure onto the screw. 
+
+Critique: This patent has many strengths, possibly even outweighing the weaknesses. The first and best strength I noticed is it’s ability to keep the screw from popping out. I like how it only keeps itself in when there is pressure exerted. Then when you stop drilling you can easily take it out. This would put a lot of stress on the screw head but since it is only being used for a short time to insert it, it shouldn’t matter. One massive flaw is the space the screw head takes up. If you were screwing this screw into a presized hole the space for head would stick out and cause the part to look bad or get in the way. In a normal screw the head where the screwdriver goes just barely doesn’t fit to prevent the user from pushing the screw all the way through. But since the head for this patent comes after the widest point in the screw the entirety of the screw head would stick out. Another problems is you would have to buy a new head in addition to the screw. I think the knowledge of having to buy another bit and the extra space flaw is enough to scare buyers away.
+
+
+
+
+
+
+3. Torque-limiting fastening element
+
+
+https://patents.google.com/patent/US5584626A/en?q=screwhead&page=2
+
+
+
+Summary: The torque limiting device is a device that can uses different size threads to increase torque. It doesn’t strip or destroy fasteners because the threads will stop moving when a predetermined torque is reached. The torque threads are facing in the opposite direction of the working threads. It can be used with a wrench, screwdriver, or other tool. 
+
+Critique: This Invention was created by Jarl Assmundson in 1995. There is a different attachment for every different tool. With the threads facing the other way the torque can be limited. The predetermined torque can’t be changed on this model. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Screw and driver
+ https://patents.google.com/patent/US3396765A/en?q=screw&page=4
+
+
+
+Summary: This patent has double the features to prevent stripping. It has a normal bit to go into the recess like any other bit. But it also has a hex attachment to attach on the outside of the screw. This takes a lot of stress off the main bit. With the stress this takes off the screw’s recess a much higher amount of torque can used on the screw letting this genre of screw to be used for a much larger scale of projects. The bit isn’t designed to not jump out of place however. Which can make it dangerous with high torque. 
+
+Critique: This patent was invented in 1968 by J.B. Ridenour. It appears to have everything we would think is need in a non-strip. There are two major flaws I noticed however. First, it is only compatible with phillips head screws which makes it a waste of money if you need to use a specific type of screw for a project. Second, it can only be used for a specific size of phillips screw. So unless every project you’re going to be doing uses the exact same screws this isn’t for you. 
+
+
+
+
+5. One-direction captive screw fastener
+ https://patents.google.com/patent/US5642972A/en?q=screw&page=6
+
+Summary This patent is for a one-directional captive screw. It can be hand tightened but needs a tool to loosen. It has a normal phillips head recess in addition to a line of threads for tightened. The threads allow the screw to be tightened clockwise but won’t have any effect when rotating out of counterclockwise. There is no option for enabling the counterclockwise rotation, which is why another tool is required for removal. 
+
+Critique:  This patent was made by Thomas J Ellis and Harry L. Dickerson in 1995. The company they work for (Southco Inc.) Has over 10,000 different variations of this type of screw. All performing close to the same being different in appearance and purpose. The amount of variety makes these practical for all projects. The variety includes all different sizes, head styles, colors, and build materials. The only downside is needing to have a seperate tool to remove it. Without a company or a firm I can’t see how much they cost. But I am willing to bet their customization will be more than what most people are willing to pay.
+
+
+
+
+
+
+
+
+
+6. “Screw” 
+https://patents.google.com/patent/US3363500A/en?q=screw&page=14
+
+
+
+Summary: This patent was made in 1965 by John J. Simko. It has a worn looking recess and the recess is triangle shaped to make it tamper proof to possible vandalizers. While vandalizers may be a problem there is probably more reliable and cheaper ways to prevent it. This screws only purpose was to stop vandalizers it, to an extent, reduced stripping as a side effect.
+
+Critique: This patent only really has one positive. The fact that it can’t be unscrewed. In the patent the author stated: “The principal object of this invention is to provide a novel and improved threaded fastener having a driving recess of a configuration such that it cannot be rotated with a conventional screwdriver or wrench”. This product probloby has no intentions in being used in any convention use. Most likely will end up in some public project that people like to mess with. It doesn’t strip because the recess is deep enough that the bit won't jump out easily.
+
+
+
+
+
+
+
+
+
+
+
+
+7.  Ratcheting bone screw
+https://patents.google.com/patent/US5167664A/en?q=screw&page=16
+
+Summary: This screw is a medical screw made for bones. The shaft and the head are separate from each other. The are connected by teeth that allow the screw to turn only one way. When turned the other way the head will come off the screw. This is good for the medical field because the head is no longer needed after the shaft is in. Also with a heavy enough load the screw will go towards the bottom of the shaft, allowing the extra to be cut off to save space.
+
+Critique:  This design looks like it will work very well in the medical field. As far as the real world go they don’t really prevent stripping. The idea of having a screw that has two pieces seems really interesting to me. This screw probably doesn’t strip because the head will just give in rather than break. If commercial screws had the two part feature the problem of stripping would be easier to fix. If a head stripped you could take the head off and put a new one on. This screw wasn’t made to fix stripping but it is a very practical approach.
+
+
+
+
+
+
+
+
+8. Screw (F. Steurer)
+https://patents.google.com/patent/US3752030A/en?q=stripping&q=screw
+
+Summary: This screw was made for securing sheet material. It using self tapping techniques to cause continuous spreading of materials. It also compresses material surrounding the pilot hole to minimize stripping and increase max torque. This screw was also made to have high loosening torque to make to it stay in place better. It can also withstand extreme temperature, vibrations, pressure, and water.
+
+Critique: This screw has lots of ups. It is one of about three patents that I found that listed that it was made to not strip. It’s design also makes it good for lasting a long time in Tough places. It compresses the material it is going into to increase hold power, but this also encourages the head and recess to stay in place (Not strip). The shaft of the screw is different in that it isn’t the same size throughout the screw. This is how the holding power is increased. 
+
+
+
+
+
+
+
+
+     Similar solutions matrix
+Pros			Picture			Cons
+1. The pro of this patent that I would find beneficial to our final solution is the shank. The shank is engaged by friction when implanting the screw and can be hooked onto a given spot to prevent from further movement of the screw once completely in.
+
+It has a pivot point that would be unnecessary for out final solution because we want a firm stationary screw. So having a pivot 
+would serve no purpose for the area we are attacking.
+2. What I really liked about this patent is how the threading and countersunk head allow this screw to be screwed in with a low amount of energy exerted on it from its source of drive. It is designed to reduce stress and torque on the screw head.
+
+One negative about this patent is that the screw head only has 4 points of contact which is only basic so there is a more likely chance of this screw stripping because there is not enough contact.
+3. The positives of this patent is how they are trying to attack the problem of the screw backing out by applying different threading and a locking feature similar to the one listed in #1. Above.
+
+The negative that I found in this patent is that it still has the potential to back out after implantation.
+1. 
+-Strip-resistant screw
+-Looks good
+- doesn’t take up lots of space.
+-Can work decently with phillips head. 
+
+
+
+
+
+-Rather than the recess stripping the entire head rips off
+-requires a new drill bit.
+-Requires more torque than other screws
+2. 
+-Really cool and unique design
+- Easy to use 
+-completely eliminates stripping. 
+
+
+
+
+-Head will stick out of wall, not visually appealing
+-requires completely new screw head 
+
+
+3. 
+-Limits torque to set amount
+-Works with already existing bits
+- Won’t damage screw or drill bit.
+
+
+
+
+
+- Takes up space, making it hard to use in tight places
+- Predetermined torque, can’t be increased with a higher quality screw
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERVIEWS
+
+
+
+James Crow
+
+I interviewed Jeremy Sullivan, an electrical engineer at Bill's Electric Incorporation. Mr. Sullivan only attended 1 semester of college, but went to electrical engineering because of life demands and a family crisis. He discovered that is was a well paying job to support his 3 children at the time.
+When I asked Jeremy if he had experienced a striped screw, If he would say stripped screws are a problem, and if he had ever tried to fix a stripped screw, he answered yes without hesitation and agreed that it truly is an issue.
+This led me to my next question of “ have you ever tried any temporary of permanent solutions, or do you know of anything that has eliminated the issue?”, he said that “the use of impact drills has greatly reduced screw stripping.” and he also stated that “the implementation of Robertson’s and torn type screws has also reduced stripping.”, all from his personal experience and observations of other people using them as well.
+Mr. Sullivan does not have a least favorite part of his field of study as he enjoys what he does very much and for my final question to Jeremy, I asked him what his advice would be for our project to further on, he concluded with saying that for a project solution, “ more surface area at the point of contact/engagement may reduce the torque and possibility of stripping on the screw”.
+That was already something William and I have discovered from our research so that more surface area is a common thing from some other screw patents.
+
+William Taylor
+
+I interviewed Josh Upton. He is an electrician that worked on installing the roof for my families deck. I talked to him over the phone and the conversation only lasted about 5 or 6 minutes. My first question was “Did you got to college at all?” He said yes, however when I asked what he got his degree in he said he got his residential electrician certification, but never got an actual degree. He said he got into it as a kid, liked it, and it paid well so he stuck with it. He has been a residential electrician for 16 years. When I asked him if he has ever experienced a stripped screw he chuckled and said yes. He said that it was more of an annoyance rather than problem. I asked him if he has ever tried fixing it. He said he use to try several methods. Try using a different screwdriver, hammer the screw out, vice grips to finish it if it’s almost in, then pray it will come out. When I asked him what his least favorite part about his job was he said the service management. Which I suppose in any job your never going to like the person telling you what to do. I have his phone number and he has mine. I told him to call me if he has any questions and he told me to call him if I need anything else.
+
+
+
+Brainstorming
+Screw Constrictor
+	This idea will consist of a drill bit and some sort of elastic band that will constrict down to the size of the screw head. The constriction will be strong enough to keep it in place, and the head will be used to finish pushing the screw in after the constrictor can no longer reach. This concept will also have a normal drill bit in the center to help keep the screw on track.
+
+Expanding drill bit
+Drill bit will consist of a bit that will expand once inside of a screw head. Expanding will allow for the bit to fill all existing space allowing for the maximum amount of contact points. 
+
+
+
+
+
+
+
+
+James Crow
+
+Notes
+
+
+
+
+
+
+
+
+
+Isometric drawings
+
+These are my two isometric drawings of the two ideas that i came up with. Below is the right ups for both.
+Here on the left, I have come up with the idea of creating a drill bit the will be inserted into the drill head but also have a claw system that will clamp to notches in a new design of screw heads so that when screwing it in, the screw has no room to move out of place.
+Here on the right, my idea comes from the very similar screw named the outlaw screw(https://www.protoolreviews.com/news/outlaw-fasteners-worlds-best-screw/8488/ )
+
+My idea was to create a screw that has multiple layers of the philips head to increase the number of contact points so that there is more grip and it can withhold a greater amount of torque than with just a single layer of the phillips head.
+
+
+
+
+
+
+
+
+
+We have come up with the idea of having a claw system that will clamp to notches in a new design of screw heads so that when screwing it in, the screw has no room to move out of place. This design will also work on screws that already exist. The claw feature provides four additional point of contact to take stress off of the main drill bit and distribute it into the claw. The claw will work by means of a spring system similar to a umbrella. Pushing down on the knob will make the claw push out against the wall until it is firmly in place, then it can be twisted to stay in place while in use. One thing to note is that the claw will go on the inside 
+of screw head, not the outside. The claw will also be compatible with flat head screws as well as phillips heads. Umbrellas actively try to stay down and only open when forced. The claw will be opposite, trying to stay spread out and only being made smaller when trying to apply it to a screw. That way the pressure is constant and the claw isn’t loose. 
+
+
+James Crow Screw idea 2 write up.
+
+
+
+
+First I want to tell you what a screw is. Dictionary says that a screw is a short, slender, sharp-pointed metal pin with a raised helical thread running around it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.
+The idea for this screw was to create a screw that has multiple layers of the philips head to increase the number of contact points so that there is more grip and it can withhold a greater amount of torque than with just a individual phillips head. This idea was derived from the outlaw screw(https://www.protoolreviews.com/news/outlaw-fasteners-worlds-best-screw/8488/ ) which has 18 points of contact. The outlaw screw uses a hexagon as its shape for the drill and drill bit. For our idea, we would want to integrate this into a phillips head. The phillips head is one of the most common used screw types but this idea can be put with any screw type and drill bit.
+We would like this idea to have 12-16 points of contact(instead of 4) which would mean having 3-4 “layers” of the phillips head as seen in the isometric drawing above. 
+The main change that comes with this idea is that not only is the screw itself changing, but the drill but is also changing which may be more costly in production. 
+This is innovative because there is only 1 screw out there that uses the concept of layers and it is  a new concept. I forsee the threading of the screw being normal but the head itself is incorporating the phillips head in our design but can be used with any type of drill head. As mentioned above, this increases the points of contact so that the drill bit will not move inside the drill head.
+
+
+Decision Matrix
+1-5 ratio
+Criteria				Screw 1(claw)				Screw 2(layer)
+Points of contact
+4
+           5
+Efficiency
+           4
+           5
+Appearance
+           3
+           4
+Cost
+           ?
+           ?
+User Friendly
+           3
+           4
+	Totals:				14					18
+Summary
+In this decision matrix, screw 2 came out with a higher score in our criteria. Granted this is without knowing the cost to make either item, we have agreed to go with screw 1 instead despite the 4 point distance in the totals.
+From here we plan on trying to figure cost to make these and find possible funding for our project.
+		
+
+list of materials.
+Computer
+3d printer
+3d print material
+Inventor software
+Hard Drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test 1: Torque Test
+Tools: Two Drills, drill bit, screw.
+Test: 
+1. Make both drills rotate clockwise
+2. Set both drills to max torque(industrial drill and strength)
+3. Give both drills max power
+4. Document how each screw withstands it..
+
+Test 2: Removal Test
+Tools: drill, drill bits, screws, light metal
+Test:
+1. Carefully screw 1 of each screw into a object.
+2. Set a drill to max torque 
+3. Remove screw as fast as possible. 
+4. See if one stripped, if not which got out first.
+5. Repeat for second screw
+
+Test 3: Damaged Test
+Tools: Clamp, drill, drill bit, screws
+Test:
+1. Clamp both screws down tight.
+2. See how much torque each screw takes on each level 
+3. See how much torque each screw takes before stripping or breaking
+4.Document each torque level the screws could withstand.
+Test number 1
+                                   Our screw(The big D)  Phillips Head
+Test 1
+With the industrial screw, it went in and out perfectly with small damage to the screw head
+The screw went in all the way but stripped once it had full threading contact within the wood it stripped but I was able to stop in time to be able to extract the screw.
+Test 2
+The screw went in and out perfectly with no damage at all.
+The screw went in all the way but stripped once it had full threading contact within the wood it stripped but I was able to stop in time to be able to extract the screw.
+
+
+Test number 2
+
+                                Our screw(The big D)      Phillips head       
+Test 1
+The screw went in and out perfectly with small damage to the screw head
+The screw went half way into the wood before stripping and could not be extracted.
+Test 2
+The screw went in and out perfectly with no damage at all.
+The screw went in all the way but stripped once it had full threading contact within the wood it stripped but I was able to stop in time to be able to extract the screw.
+Test 3
+The screw went in and out perfectly with no damage at all.
+The screw went in all the way but stripped once it had full threading contact within the wood it stripped but I was able to stop in time to be able to extract the screw.
+Test number 3
+
+Test 1(ours)
+
+
+---------------------
+Test 2(ours)
+
+
+----------------------
+Test 1(phillips head)
+
+
+-----------------------
+Test 2(phillips head)
+
+
+------------------------
+
+
